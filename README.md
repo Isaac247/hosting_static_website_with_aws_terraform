@@ -150,5 +150,9 @@ resource "aws_acm_certificate" "domain_cert" {
   
 }
 ~~~
+Output  
+![img1](image/bucket.png)   
+Bucket
+
 
 
