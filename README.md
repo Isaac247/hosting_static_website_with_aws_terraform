@@ -150,9 +150,20 @@ resource "aws_acm_certificate" "domain_cert" {
   
 }
 ~~~
-Output  
-![img1](image/bucket.png)   
-Bucket
+Output    
+![img1](images/bucket.PNG)   
+Bucket  
+
+![img1](images/certificates.PNG)  
+Certificate  
+
+![img1](images/cloudfront.PNG)  
+Cloudfront   
+
+![img1](images/route53.PNG) 
+Route53
+
+
 
 
 
